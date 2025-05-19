@@ -15,6 +15,9 @@ A responsive React.js dashboard that visualizes COVID-19 statistics (Total Cases
 - Error handling for all API calls
 
 ---
+## 📸 Dashboard Preview
+
+![COVID-19 Dashboard Screenshot](./assets/dashboard-preview.png)
 
 ## 📦 Installation
 
@@ -60,7 +63,16 @@ npm install axios recharts
 
 
 use the below command for executing the project:
+
+
+
 set NODE_OPTIONS=--openssl-legacy-provider && npm start
+
+
+
+
+
+
 ---
 
 
