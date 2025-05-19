@@ -62,25 +62,23 @@ npm install axios recharts
 
 ![COVID-19 Dashboard Screenshot](./assests/Covid-19Dashboard.png)
 
-##🌍 Live Website
--You can explore the fully functional and responsive COVID-19 and Population Dashboard hosted on Netlify:
+---
 
-🔗 https://charming-narwhal-13318c.netlify.app/
+## 🌍 Live Website
 
-✅ What You Can Do on the Live Website:
-Select any country from the dropdown to fetch real-time historical COVID-19 data.
+You can explore the fully functional and responsive COVID-19 and Population Dashboard hosted on Netlify:
 
-View key statistics like total confirmed cases, recoveries, and deaths at a glance.
+**🔗 [COVID-19 Dashboard on Netlify](https://charming-narwhal-13318c.netlify.app/)**
 
-Analyze trends using the interactive line chart for daily case progression.
+### ✅ What You Can Do on the Live Website:
+- **Select any country** from the dropdown to fetch real-time historical COVID-19 data.  
+- **View key statistics** like total confirmed cases, recoveries, and deaths at a glance.  
+- **Analyze trends** using the interactive **line chart** for daily case progression.  
+- **Understand proportions** with a **pie chart** comparing COVID stats against the total population.  
+- **Enjoy a clean, responsive UI** optimized for both desktop and mobile devices.  
+- Experience **real-time data fetching** and robust **error handling** for failed API requests.
 
-Understand proportions with a pie chart comparing COVID stats against the total population.
-
-Enjoy a clean, responsive UI optimized for both desktop and mobile devices.
-
-Experience real-time data fetching and robust error handling for failed API requests.
-
-No installation needed — just open the link and start exploring the data!
+> No installation needed — just open the link and start exploring the data!
 
 
 ---
