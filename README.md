@@ -17,7 +17,7 @@ A responsive React.js dashboard that visualizes COVID-19 statistics (Total Cases
 ---
 ## 📸 Dashboard Preview
 
-![COVID-19 Dashboard Screenshot](./assests/dashboard-preview.png)
+![COVID-19 Dashboard Screenshot](./assests/Covid-19 Dashboard.png)
 
 ## 📦 Installation
 
