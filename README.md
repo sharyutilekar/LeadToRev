@@ -25,8 +25,8 @@ A responsive React.js dashboard that visualizes COVID-19 statistics (Total Cases
 git clone https://github.com/your-username/LeadToRev.git
 cd covid19-dashboard-react
 npm install
-use the below command for executing the project:
-set NODE_OPTIONS=--openssl-legacy-provider && npm start
+npm start
+npm run build
 ```
 
 ---
@@ -60,18 +60,6 @@ npm install axios recharts
 - [React](https://reactjs.org/)
 - [Axios](https://github.com/axios/axios) — HTTP client
 - [Recharts](https://recharts.org/en-US/) — Chart library for React
-
-
-use the below command for executing the project:
-
-
-
-set NODE_OPTIONS=--openssl-legacy-provider && npm start
-
-
-
-
-
 
 ---
 
