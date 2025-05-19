@@ -1,0 +1,38 @@
+/* App.css */
+.app {
+    background-color: #e6f0ff;
+    padding: 2rem;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .controls {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .stats {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+  }
+  
+  .charts {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+  }
+  
+  .error {
+    color: red;
+    text-align: center;
+  }
+  

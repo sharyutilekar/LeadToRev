@@ -1,0 +1,32 @@
+/* StatCard.css */
+.stat-card {
+  border-radius: 12px;
+  padding: 1rem;
+  min-width: 150px;
+  margin: 0.5rem;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.stat-card h3 {
+  margin: 0 0 0.5rem 0;
+}
+
+.stat-card p {
+  font-size: 1.25rem;
+  margin: 0;
+}
+
+.stat-card.blue {
+  background-color: #4a6cf7;
+}
+
+.stat-card.green {
+  background-color: #4bd69f;
+}
+
+.stat-card.red {
+  background-color: #f56969;
+}
